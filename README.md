@@ -16,3 +16,6 @@ Além de **otimizar o tempo** buscando em vários sites de uma só vez, a ferram
 >- **Passo 2:** Digite a palavra chave a ser buscada.
 >- **Resultado:** Clippyng fará a busca e mostrará um resumo de quantos links foram pesquisados e em quais deles a palavra foi encontrada.
 >- ***Importante:*** Para que a ferramenta funcione, é necessário ter instaladas as bibliotecas Requests e Beautiful Soup.
+
+## Demonstração
+Neste [vídeo](https://youtu.be/Fm04JxZPTpU), você pode acompanhar um teste de como **Clippyng** procurou pela palavra **unicamp** nos sites **[G1](http://g1.globo.com/)**, **[Folha de S. Paulo](https://www.folha.uol.com.br/)** e **[Correio Popular](http://correio.rac.com.br/)** e nos respectivos sub-sites de cada uma dessas páginas. Após realizar a busca, a palavra **unicamp** foi procurada em 1019 sites e encontrada em 8. Além dos links, o resultado mostra também o trecho do texto onde a palavra foi encontrada. 
