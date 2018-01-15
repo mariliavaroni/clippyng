@@ -7,6 +7,8 @@ Esta ferramenta foi criada para participar do concurso de encerramento do **[MOO
 
 Esse foi meu primeiro curso de programação. Ao longo das aulas, aprendi que esta linguagem me permite automatizar processos de busca e raspagem de dados. Um dos tipos de busca que mais faço em meu trabalho na [**Mensagem Comunicação**](http://www.mensagemcomunicacao.com.br/) e que mais me toma tempo é a realização de clipagens online, o que me motivou a criar a **Clippyng**.
 
+![Clippyng](https://github.com/mariliavaroni/clippyng/blob/master/CLIPPYNG.png)
+
 ## Funcionamento
 *Clipping* é um relatório gerado com notícias sobre determinado personagem ou assunto. Para jornalistas que trabalham com **assessoria de imprensa**, ele é fundamental para demonstrar resultados do trabalho que vem sendo desenvolvido. Para jornalistas que trabalham em **redação**, o *clipping* pode ajudar no monitoramento de um determinado assunto ou fonte relevante de interesse de cobertura.
 
